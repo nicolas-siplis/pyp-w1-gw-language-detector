@@ -2,8 +2,36 @@
 
 LANGUAGES = [
     {
-        'name': 'Spanish',
-        'common_words': ['yo', 'tu', 'el', 'nosotros']  # add your words here
+    'name': 'Spanish',
+    'common_words': [
+        'el', 'la', 'de', 'que', 'y', 'a', 'en', 'un', 'ser', 'se',
+        'no', 'haber', 'por', 'con', 'su', 'para', 'como', 'estar',
+        'tener', 'le', 'lo', 'lo', 'todo', 'pero', 'más', 'hacer',
+        'o', 'poder', 'decir', 'este', 'ir', 'otro', 'ese', 'la',
+        'si', 'me', 'ya', 'ver', 'porque', 'dar', 'cuando', 'él',
+        'muy', 'sin', 'vez', 'mucho', 'saber', 'qué', 'sobre',
+        'mi', 'alguno', 'mismo', 'yo', 'también', 'hasta']
+    },
+    
+    {
+    'name': 'German',
+    'common_words': [
+        'el', 'la', 'de', 'que', 'y', 'a', 'en', 'un', 'ser', 'se',
+        'no', 'haber', 'por', 'con', 'su', 'para', 'como', 'estar',
+        'tener', 'le', 'lo', 'lo', 'todo', 'pero', 'más', 'hacer',
+        'o', 'poder', 'decir', 'este', 'ir', 'otro', 'ese', 'la',
+        'si', 'me', 'ya', 'ver', 'porque', 'dar', 'cuando', 'él',
+        'muy', 'sin', 'vez', 'mucho', 'saber', 'qué', 'sobre',
+        'mi', 'alguno', 'mismo', 'yo', 'también', 'hasta']
+    },
+    
+    {
+    'name': 'English',
+    'common_words': [
+        'the', 'be', 'to', 'of', 'and', 'a', 'in', 'that', 'have',
+        'I', 'it', 'for', 'not', 'on', 'with', 'he', 'as', 'as',
+        'you', 'do', 'at', 'this', 'but', 'his', 'by', 'from',
+        'they', 'we', 'say', 'her', 'she']
     },
     #  include your extra languages here
 ]
