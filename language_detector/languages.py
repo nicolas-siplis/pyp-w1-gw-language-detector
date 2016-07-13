@@ -31,7 +31,11 @@ LANGUAGES = [
     
     {
     'name': 'English',
-    'common_words': []
+    'common_words': [
+        'the', 'be', 'to', 'of', 'and', 'a', 'in', 'that', 'have',
+        'I', 'it', 'for', 'not', 'on', 'with', 'he', 'as', 'as',
+        'you', 'do', 'at', 'this', 'but', 'his', 'by', 'from',
+        'they', 'we', 'say', 'her', 'she'
+        ]
     },
-    #  include your extra languages here
 ]
