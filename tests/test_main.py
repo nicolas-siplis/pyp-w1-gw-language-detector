@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 import unittest
 
 from language_detector import detect_language, LANGUAGES

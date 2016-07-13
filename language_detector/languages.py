@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """This file contains the definition of all languages supported by the program."""
 
 LANGUAGES = [
@@ -10,28 +12,26 @@ LANGUAGES = [
         'o', 'poder', 'decir', 'este', 'ir', 'otro', 'ese', 'la',
         'si', 'me', 'ya', 'ver', 'porque', 'dar', 'cuando', 'él',
         'muy', 'sin', 'vez', 'mucho', 'saber', 'qué', 'sobre',
-        'mi', 'alguno', 'mismo', 'yo', 'también', 'hasta']
+        'mi', 'alguno', 'mismo', 'yo', 'también', 'hasta'
+        ]
     },
     
     {
     'name': 'German',
     'common_words': [
-        'el', 'la', 'de', 'que', 'y', 'a', 'en', 'un', 'ser', 'se',
-        'no', 'haber', 'por', 'con', 'su', 'para', 'como', 'estar',
-        'tener', 'le', 'lo', 'lo', 'todo', 'pero', 'más', 'hacer',
-        'o', 'poder', 'decir', 'este', 'ir', 'otro', 'ese', 'la',
-        'si', 'me', 'ya', 'ver', 'porque', 'dar', 'cuando', 'él',
-        'muy', 'sin', 'vez', 'mucho', 'saber', 'qué', 'sobre',
-        'mi', 'alguno', 'mismo', 'yo', 'también', 'hasta']
+        'das', 'ist', 'du', 'ich', 'nicht', 'die', 'es', 'und',
+        'der', 'was', 'wir', 'zu', 'ein', 'er', 'in', 'sie', 'mir',
+        'mit', 'ja', 'wie', 'den', 'auf', 'mich', 'dass', 'so',
+        'hier', 'eine', 'wenn', 'hat', 'all', 'sind', 'von',
+        'dich', 'war', 'haben', 'für', 'an', 'habe', 'da', 'nein',
+        'bin', 'noch', 'als', 'uns', 'sich', 'nur',
+        'einen', 'kann', 'dem', 'Inzwischen'
+        ]
     },
     
     {
     'name': 'English',
-    'common_words': [
-        'the', 'be', 'to', 'of', 'and', 'a', 'in', 'that', 'have',
-        'I', 'it', 'for', 'not', 'on', 'with', 'he', 'as', 'as',
-        'you', 'do', 'at', 'this', 'but', 'his', 'by', 'from',
-        'they', 'we', 'say', 'her', 'she']
+    'common_words': []
     },
     #  include your extra languages here
 ]
